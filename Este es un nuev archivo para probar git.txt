@@ -1,0 +1,4 @@
+Este es un nuev archivo para probar git 
+Agregar una linea de texto 
+Agregamos cambios de prueba
+agregamos otrsoo cambios que nos permitan entender
